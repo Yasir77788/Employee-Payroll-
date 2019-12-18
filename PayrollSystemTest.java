@@ -1,6 +1,4 @@
 /* /////////////////////////////////////////////////////////////////////////////
- * Yasir Hassan - March 29, 2019
- * CS 3300 - Final Project
  * This project is to demonstrate OOP using inheritance, encapsulation, and
  * polymorphism... 
  * This project contains 8 classes.
